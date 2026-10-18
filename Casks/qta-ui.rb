@@ -13,11 +13,11 @@ cask "qta-ui" do
   on_macos do
     on_intel do
       url "https://github.com/qta-company/qta-agent/releases/download/v1.0.0/qta-ui_v1.0.0_darwin_amd64.tar.gz"
-      sha256 "bcb9e9735ef3009dc278c802ae72e72e38f6f9edca933e0d400bd5c324c20ba2"
+      sha256 "b2149a05456426eaeb2e81fddf4484f4442e1c1ec8cd0f3c4a6009c0fbd7e73a"
     end
     on_arm do
       url "https://github.com/qta-company/qta-agent/releases/download/v1.0.0/qta-ui_v1.0.0_darwin_arm64.tar.gz"
-      sha256 "5a2154f6cabad05854a577ea14a53be87c90253f31bfbb8b9c3ca6cd7a408223"
+      sha256 "fe0a45d063c648badcf577b075d8f6a7b2d7b8695955d6cb5fb455f1fbf491cb"
     end
   end
 
